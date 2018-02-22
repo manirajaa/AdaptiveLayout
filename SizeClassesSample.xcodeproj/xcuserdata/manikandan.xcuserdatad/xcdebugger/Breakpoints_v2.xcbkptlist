@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SizeClassesSample/CollectionViewController.swift"
+            timestampString = "540901998.733067"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewWillTransition(to:with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SizeClassesSample.CollectionViewController.viewWillTransition(to: __C.CGSize, with: __ObjC.UIViewControllerTransitionCoordinator) -&gt; ()"
+                  moduleName = "SizeClassesSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manikandan/Desktop/SizeClassesSample/SizeClassesSample/CollectionViewController.swift"
+                  timestampString = "540901999.3595099"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.UIViewControllerTransitionCoordinatorContext) -&gt; () in SizeClassesSample.CollectionViewController.viewWillTransition(to: __C.CGSize, with: __ObjC.UIViewControllerTransitionCoordinator) -&gt; ()"
+                  moduleName = "SizeClassesSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manikandan/Desktop/SizeClassesSample/SizeClassesSample/CollectionViewController.swift"
+                  timestampString = "540901999.363397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SizeClassesSample/CollectionViewController.swift"
+            timestampString = "540901999.832673"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "traitCollectionDidChange(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
